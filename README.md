@@ -1,2 +1,2 @@
 # HTCS
-This is going tome a framework
+This is going to be a framework
